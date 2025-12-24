@@ -1,0 +1,6 @@
+{
+  "name": "example-generic",
+  "version": "1.0.0",
+  "description": "LangAPI MCP example with generic JSON translations",
+  "private": true
+}
