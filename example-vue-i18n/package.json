@@ -1,0 +1,20 @@
+{
+  "name": "example-vue-i18n",
+  "version": "1.0.0",
+  "description": "LangAPI MCP example with vue-i18n",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.0.0",
+    "vue-i18n": "^9.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.0",
+    "typescript": "^5.0.0",
+    "vite": "^5.0.0"
+  }
+}

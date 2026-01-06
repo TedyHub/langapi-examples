@@ -10,6 +10,8 @@ Example projects demonstrating the `@langapi/mcp-server` with different i18n fra
 | [example-i18next](./example-i18next) | i18next | `public/locales/*/*.json` | Ready |
 | [example-react-intl](./example-react-intl) | react-intl | `src/lang/*.json` | Ready |
 | [example-generic](./example-generic) | generic | `locales/*.json` | Ready |
+| [example-vue-i18n](./example-vue-i18n) | vue-i18n | `src/locales/*.json` | Ready |
+| [example-flutter-arb](./example-flutter-arb) | flutter | `lib/l10n/app_*.arb` | Ready |
 
 ## Quick Start
 
