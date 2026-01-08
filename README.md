@@ -12,6 +12,8 @@ Example projects demonstrating the `@langapi/mcp-server` with different i18n fra
 | [example-generic](./example-generic) | generic | `locales/*.json` | Ready |
 | [example-vue-i18n](./example-vue-i18n) | vue-i18n | `src/locales/*.json` | Ready |
 | [example-flutter-arb](./example-flutter-arb) | flutter | `lib/l10n/app_*.arb` | Ready |
+| [example-ios-xcstrings](./example-ios-xcstrings) | ios-macos | `*.xcstrings` | Ready |
+| [example-ios-strings](./example-ios-strings) | ios-macos | `*.lproj/*.strings` | Ready |
 
 ## Quick Start
 
